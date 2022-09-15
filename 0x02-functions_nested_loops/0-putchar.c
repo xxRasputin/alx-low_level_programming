@@ -3,19 +3,19 @@
 /**
  * main - Entry point
  *
- * Return: Always 0 (Success)
+ * Return: Always 0
  */
 int main(void)
 {
-	char putch[10] = "_putchar";
+	_putchar('_');
+	_putchar('p');
+	_putchar('u');
+	_putchar('t');
+	_putchar('c');
+	_putchar('h');
+	_putchar('a');
+	_putchar('r');
+	_putchar('\n');
 
-	int n = 0;
-
-	while (i < 8)
-	{
-		_putchar(putch[i]);
-		i++;
-	}
-	_putchar(10);
 	return (0);
 }
