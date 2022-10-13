@@ -1,6 +1,13 @@
-0 - Define a new type struct dog with the following elements..
-1 - Write a function that initializews the variable of type struct dog
-2 - Write a function  that prints a struct dog
-3 - Define a new type dog_t as a new name for the type struct dog
-4 - Write a function that creates a new dog
-5 - Write a function that frees dogs.
+Root readme contains C practice works
+C hello world
+C variables
+C functions nested loops
+C debbugging
+C pointers arrays and strings
+C recursion
+C static libraries
+C argc argv
+C malloc
+C prepocessor
+C structures typedef
+C function pointers
