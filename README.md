@@ -11,3 +11,4 @@ C malloc
 C prepocessor
 C structures typedef
 C function pointers
+C variadic functions
